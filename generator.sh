@@ -1,0 +1,1 @@
+qrencode -l M -s 20 -o output/ivan_qr.png < input/ivan.vcf
